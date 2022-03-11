@@ -21,10 +21,10 @@ DAI token smart contract code was forked from etherscan's verified codebase.
 
 #### Token Deployment 
  - Polygon Mumbai
-   - [Token - Mumbai PolygonScan](https://mumbai.polygonscan.com/address/0xa485000aa89d8077fea85ad0c38f47f54a6fe476#code)
+   - [Token - Mumbai PolygonScan](https://mumbai.polygonscan.com/address/0xaB57fAf3b573B8ac1ad90255f6cF4E92DbbcCE91#code)
    - Token Verified
-   - Contract Address - 
-   - Contract Owner Address - 
-   - <a target="_blank" href="https://metamask.dsolutions.mn/add-token?name=Diverse USDC&symbol=dUSDC&decimals=6&address=0x2b8920cBdDCc3e85753423eEceCd179cb9232554&imgUrl=https://cryptologos.cc/logos/usd-coin-usdc-logo.png">Add Token To Metamask</a>
+   - Contract Address - 0xaB57fAf3b573B8ac1ad90255f6cF4E92DbbcCE91
+   - Contract Owner Address - 0xb83E7D21cd4c2f162692bbf2C94f864FEE488965
+   - <a target="_blank" href="https://metamask.dsolutions.mn/add-token?name=Diverse DAI&symbol=dDAI&decimals=18&address=0xaB57fAf3b573B8ac1ad90255f6cF4E92DbbcCE91&imgUrl=https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png">Add Token To Metamask</a>
 
 
